@@ -50,7 +50,7 @@
     "lodash": "^4.0.0",
     "loglevel": "^1.4.0",
     "ncp": "^2.0.0",
-    "page-icon": "^0.3.0",
+    "page-icon": "^0.4.0",
     "progress": "^2.0.0",
     "sanitize-filename": "^1.5.3",
     "shelljs": "^0.7.0",
