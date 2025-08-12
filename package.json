@@ -44,7 +44,7 @@
     "babel-polyfill": "^6.7.2",
     "cheerio": "^0.22.0",
     "commander": "^2.9.0",
-    "electron-packager": "^8.6.0",
+    "electron-packager": "^17.1.2",
     "gitcloud": "^0.1.0",
     "hasbin": "^1.2.0",
     "lodash": "^4.0.0",
@@ -55,7 +55,7 @@
     "sanitize-filename": "^1.5.3",
     "shelljs": "^0.7.0",
     "source-map-support": "^0.4.0",
-    "tmp": "0.0.31",
+    "tmp": "0.2.4",
     "validator": "^7.0.0"
   },
   "devDependencies": {
